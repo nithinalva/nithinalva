@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nithinalva&show_icons=true&theme=dracula&line_height=45&include_all_commits=true" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stackoverflow.vercel.app/?userID=2954930"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithinalva&show_icons=true&theme=dracula&line_height=45&include_all_commits=true" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <br>
   <br>
   
