@@ -13,7 +13,7 @@
   <br>
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinalva)](https://github.com/alaeddinemessadi)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinalva)](https://github.com/nithinalva)
   <br>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nithinalva" alt="visitor badge"/>
