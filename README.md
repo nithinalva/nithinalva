@@ -13,9 +13,9 @@
   <br>
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaeddinemessadi)](https://github.com/alaeddinemessadi)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinalva)](https://github.com/alaeddinemessadi)
   <br>
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alaeddinemessadi" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nithinalva" alt="visitor badge"/>
   <br>
 </div>
