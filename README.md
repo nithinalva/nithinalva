@@ -5,7 +5,7 @@
   # Hello, world! 👋
 
   #### You can find me on :
-  [![](https://img.shields.io/badge/Website-%230077B5.svg?&style=for-the-badge&logo=hotjar&color=9cf)](https://www.nithinalva.xyz) - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/nithin-sk-b2a857175/) - [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nithin.alva/) - [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/nithinAlva) - [![](https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=gmail&color=55688A)](mailto:nsk254@gmail.com)
+  [![](https://img.shields.io/badge/Website-%230077B5.svg?&style=for-the-badge&logo=hotjar&color=9cf)](https://nithin-alva.netlify.app/) - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/nithin-sk-b2a857175/) - [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nithin.alva/) - [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://twitter.com/nithinAlva) - [![](https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=gmail&color=55688A)](mailto:nsk254@gmail.com)
   <br>
   <br>
   <br>
